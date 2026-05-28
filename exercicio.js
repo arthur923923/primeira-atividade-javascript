@@ -8,6 +8,6 @@ let bebidas = prompt("qual bebida vc quer ?   " + " agua " +"coca "+ "cerveja")
 
 let entrega =prompt(" quer que entregue ? se sim coloque o endereço ")
 
-prompt("entao vc vai querer " + lanche +" fritas ? " + fritas + " sua bebida é " + bebidas + " e entrega " + entrega + " esta correto ?" ) 
-prompt(" credito ou debito ou pix ?") 
-alert("pedido feito obrigodo💓")
+prompt("entao vc vai querer " + lanche +", voçê escolheu para acompanhar fritas: " + fritas + ", sua bebida é " + bebidas + ", e entrega " + entrega + " esta correto ?" ) 
+prompt(" credito ou debito ou pix ? dinheiro so na entrega") 
+alert("pedido feito obrigado💓")
